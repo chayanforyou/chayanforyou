@@ -18,17 +18,17 @@ I love both electronics and programming. Most of my works are hardware and softw
   
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="visual_studio_code" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/chayanforyou/chayanforyou/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/tools/visualstudio_code.svg" alt="visual_studio_code" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/chayanforyou/chayanforyou/blob/main/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 
 
 </p>
