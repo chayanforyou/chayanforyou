@@ -37,7 +37,7 @@ I love both electronics and programming. Most of my works are hardware and softw
 ### I'm currently...
 
 - 🔭 I’m currently working on Mobile App
-- 🌱 I’m currently learning Python | TensorFlow | OpenCV
+- 🌱 I’m currently learning TensorFlow | OpenCV | Python
 - 👯 I’m looking to collaborate on any open source project <!-- - 🤔 I’m looking for help with -->
 - 💬 Ask me about MCU | Hardware | IoT | Android | Flutter
 - 📫 How to reach me: [Github](https://github.com/chayanforyou), [Linkedin](linkedin.com/in/chayanforyou), [Facebook](facebook.com/chayanforyou)
