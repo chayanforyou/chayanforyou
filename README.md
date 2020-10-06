@@ -4,7 +4,7 @@ I love both electronics and programming. Most of my works are hardware and softw
 <a href="https://www.linkedin.com/in/chayanforyou"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/chayanforyou"><img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <br /><br />
 
-[![Atikur's github stats](https://github-readme-stats.vercel.app/api?username=chayanforyou)]()
+[![Chayans's github stats](https://github-readme-stats.vercel.app/api?username=chayanforyou)]()
 
 ### Languages...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayanforyou&count_private=true&layout=compact)]()
