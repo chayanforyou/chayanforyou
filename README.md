@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, This is Chayan 👋
 I love both electronics and programming. Most of my works are hardware and software combination. I’ve done many Hardware-based projects & developed some Android application. I also work with Embedded system, IoT, Robotics and industrial automation. I like writing, sharing my knowledge with others freak guy. 😎
 
 <a href="https://www.linkedin.com/in/chayanforyou"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/chayanforyou"><img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
