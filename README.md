@@ -1,8 +1,8 @@
 
 <h3 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h5 align="center">I'm Chayan 😄 
-<h3 align="center"><a href="https://www.linkedin.com/in/chayanforyou/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/static/v1?label=Android&message=Enthusiast&color=brightgreen" />
+<h3 align="center"><a href="https://www.linkedin.com/in/chayanforyou" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://g.dev/chayanforyou" target="_blank"><img src="https://img.shields.io/static/v1?label=Android&message=Enthusiast&color=brightgreen" /></a>
 
 ---
 
