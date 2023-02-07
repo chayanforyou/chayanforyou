@@ -14,7 +14,7 @@ I love both electronics and programming. Most of my works are hardware and softw
 - 🌱 I’m currently learning TensorFlow | OpenCV | Python
 - 👯 I’m looking to collaborate on any open source project <!-- - 🤔 I’m looking for help with -->
 - 💬 Ask me about MCU | Hardware | IoT | Android | Flutter
-- 📫 How to reach me: [YouTube](https://www.youtube.com/@chayanmistry), [Linkedin](https://linkedin.com/in/chayanforyou), [Facebook](https://facebook.com/chayanmistrry)
+- 📫 How to reach me: [YouTube](https://www.youtube.com/@chayanmistry), [Facebook](https://facebook.com/chayanmistrry), [Linkedin](https://linkedin.com/in/chayanforyou), [WhatsApp](http://wa.me/+8801734811761)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: CTRL+C, CTRL+V
   
