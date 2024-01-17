@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me :
   
-I love both electronics and programming. Most of my works are hardware and software combination. I’ve done many Hardware-based projects & developed some Android application. I also work with Embedded system, IoT, Robotics and industrial automation. I like writing, sharing my knowledge with others freak guy. 😎
+I am passionate about both electronics and programming. In most of my work, hardware and software are combined. Besides developing Android applications, I have worked on some hardware-based projects. My other areas of expertise include embedded systems, IoT, robotics, and industrial automation. It's fun for me to write and share my knowledge with other freaks. 😎
 
 - 🔭 I’m currently working on Mobile App
 - 🌱 I’m currently learning TensorFlow | OpenCV | Python
