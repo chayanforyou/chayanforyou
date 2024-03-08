@@ -17,6 +17,9 @@ I am passionate about both electronics and programming. In most of my work, hard
 - 📫 How to reach me: [YouTube](https://www.youtube.com/@chayanmistry), [Facebook](https://facebook.com/chayanmistrry), [Linkedin](https://linkedin.com/in/chayanforyou), [WhatsApp](http://wa.me/+8801734811761)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: CTRL+C, CTRL+V
+
+![GitHub Snake Light](../../raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+![GitHub Snake dark](../../raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   
 ### :hammer_and_wrench: Languages and Tools :
   
