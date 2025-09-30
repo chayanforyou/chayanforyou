@@ -11,7 +11,7 @@ I am an Android and Flutter Developer with almost 6 years of experience in devel
 
 - 🔭 I’m currently working on Mobile App
 - 🌱 I’m currently learning TensorFlow | OpenCV | Python
-- 👯 I’m looking to collaborate on any open source project <!-- - 🤔 I’m looking for help with -->
+- 👯 I’m looking to collaborate on any open source project
 - 💬 Ask me about MCU | Hardware | IoT | Android | Flutter
 - 📫 How to reach me: [YouTube](https://www.youtube.com/@chayanmistry), [Facebook](https://facebook.com/chayanmistrry), [Linkedin](https://linkedin.com/in/chayanforyou), [WhatsApp](http://wa.me/+8801734811761)
 - 😄 Pronouns: He/Him
@@ -19,12 +19,10 @@ I am an Android and Flutter Developer with almost 6 years of experience in devel
 
 ![GitHub Snake Light](../../raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
 ![GitHub Snake dark](../../raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+<!-- ### :hammer_and_wrench: Languages and Tools : -->
   
-### :hammer_and_wrench: Languages and Tools :
-  
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  
-<a href="https://java.com"><img src="assets/svg/dev/languages/java.svg" alt="java" style="margin:4px"/></a>
+<!-- <a href="https://java.com"><img src="assets/svg/dev/languages/java.svg" alt="java" style="margin:4px"/></a>
 <a href="https://kotlinlang.org"><img src="assets/svg/dev/languages/kotlin.svg" alt="kotlin" style="margin:4px"/></a>
 <a href="https://dart.dev"><img src="/assets/svg/dev/languages/dart.svg" alt="dart" style="margin:4px"></a>
 <a href="https://python.org"><img src="/assets/svg/dev/languages/python.svg" alt="python" style="margin:4px"></a>
@@ -37,9 +35,8 @@ I am an Android and Flutter Developer with almost 6 years of experience in devel
 <a href="https://code.visualstudio.com"><img src="/assets/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="margin:4px"></a>
 <a href="https://docs.microsoft.com/en-us/powershell"><img src="/assets/svg/dev/tools/powershell.svg" alt="powershell" style="margin:4px"></a>
 <a href="https://gnu.org/software/bash"><img src="/assets/svg/dev/tools/bash.svg" alt="bash" style="margin:4px"></a>
-<a href="https://vmware.com"><img src="/assets/svg/dev/tools/vmware.svg" alt="bash" style="margin:4px"></a>
+<a href="https://vmware.com"><img src="/assets/svg/dev/tools/vmware.svg" alt="bash" style="margin:4px"></a> -->
 
---- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayanforyou&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chayanforyou&theme=tokyonight)
