@@ -13,7 +13,7 @@ I am an Android and Flutter Developer with almost 6 years of experience in devel
 - 🌱 I’m currently learning TensorFlow | OpenCV | Python
 - 👯 I’m looking to collaborate on any open source project
 - 💬 Ask me about MCU | Hardware | IoT | Android | Flutter
-- 📫 How to reach me: [YouTube](https://www.youtube.com/@chayanmistry), [Facebook](https://facebook.com/chayanmistrry), [Linkedin](https://linkedin.com/in/chayanforyou), [WhatsApp](http://wa.me/+8801734811761)
+- 📫 How to reach me: [YouTube](https://www.youtube.com/@chayanmistry), [Linkedin](https://linkedin.com/in/chayanforyou), [WhatsApp](http://wa.me/+8801734811761)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: CTRL+C, CTRL+V
 
