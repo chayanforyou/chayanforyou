@@ -7,7 +7,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an Android and Flutter Developer with almost 6 years of experience in developing mobile applications. With a strong proficiency in Java, Kotlin, and Dart programming languages, I build efficient, responsive, and user-friendly applications. My experience spans the entire application development lifecycle, from design to implementation, testing, and maintenance. Besides developing mobile applications, I have worked on some hardware-based projects including Embedded systems, IoT, Robotics, and Industrial automation. It's fun for me to write and share my knowledge with other freaks. 😎
+I am an Android and Flutter Developer with almost 7 years of experience in developing mobile applications. With a strong proficiency in Java, Kotlin, and Dart programming languages, I build efficient, responsive, and user-friendly applications. My experience spans the entire application development lifecycle, from design to implementation, testing, and maintenance. Besides developing mobile applications, I have worked on some hardware-based projects including Embedded systems, IoT, Robotics, and Industrial automation. It's fun for me to write and share my knowledge with other freaks. 😎
 
 - 🔭 I’m currently working on Mobile App
 - 🌱 I’m currently learning TensorFlow | OpenCV | Python
